@@ -18,6 +18,8 @@
 
     <actions>
         <!-- Add your actions here -->
-        <action id="TestAction" class="TestAction" text="OpenGoogle" description="Test action"/>
+        <action id="TestAction" class="TestAction" text="OpenGoogle" description="Test action">
+            <add-to-group group-id="ToolsMenu" anchor="first"></add-to-group>
+        </action>
     </actions>
 </idea-plugin>
