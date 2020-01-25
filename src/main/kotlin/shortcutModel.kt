@@ -1,6 +1,6 @@
-class shortcutModel
+
+
+data class shortcutModel(val shortCmd: String, val descCmd: String)
 {
-    public val shortCmd: String? = null
-    public val descCmd: String? = null
 
 }

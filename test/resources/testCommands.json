@@ -1,0 +1,14 @@
+[
+  {
+    "shortCmd" : "a",
+    "descCmd" : "salute"
+  },
+  {
+    "shortCmd" : "b",
+    "descCmd" : "ingrandisci"
+  },
+  {
+    "shortCmd" : "a",
+    "descCmd" : "aiuto"
+  }
+]

@@ -3,7 +3,7 @@
     <name>which-key</name>
     <vendor>which-key</vendor>
 
-    <description>pizzapizzapizzapizzapizzapizzapizzapizzapizzapizzapizza</description>
+    <description>pizza pizza pizza pizza pizza pizza pizza pizza pizza pizza pizza</description>
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
