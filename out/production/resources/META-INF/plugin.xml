@@ -1,0 +1,18 @@
+<idea-plugin>
+    <id>org.example.which-key</id>
+    <name>which-key</name>
+    <vendor>which-key</vendor>
+
+    <description>pizza pizza pizza pizza pizza pizza pizza pizza pizza pizza pizza</description>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="TestWindow" secondary="true" anchor="right" factoryClass="TestWindowFactory"/>
+    </extensions>
+
+    <actions>
+        <action id="TestAction" class="TestAction" text="OpenGoogle" description="Test action">
+            <add-to-group group-id="ToolsMenu" anchor="first"></add-to-group>
+        </action>
+    </actions>
+</idea-plugin>
